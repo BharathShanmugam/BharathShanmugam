@@ -9,6 +9,8 @@
 - Personal Blog ([bharathshanmugam.github.io](https://bharathshanmugam.github.io/))
 
 - 📫 How to reach me **bharathshanmugam12@gmail.com**
+- [Download My Resume](https://github.com/BharathShanmugam/Bharathshanmugam.github.io/blob/main/assets/BharathShanmugamResume.pdf)
+
 
 
 <p align="left">
