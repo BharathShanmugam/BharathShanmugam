@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Customer Relationship Management system with WhatsApp API**
 
-- LinkedIN [https://www.linkedin.com/in/bharath-shanmugam-337191222/](https://www.linkedin.com/in/bharath-shanmugam-337191222/)
+- LinkedIN ([(https://www.linkedin.com/in/bharath-s-337191222/)](https://www.linkedin.com/in/bharath-s-337191222/))
 
 - Personal Blog ([bharathshanmugam.github.io](https://bharathshanmugam.github.io/))
 
